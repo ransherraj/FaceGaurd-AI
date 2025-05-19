@@ -1,24 +1,15 @@
-# FaceGaurd-AI
-
-
- FaceGuard AI – Real-Time Face Mask Detection System
+# FaceGaurd-AI - Real-Time Face Mask Detection System
 FaceGuard AI is a real-time, AI-powered web application that detects whether a person is wearing a face mask, wearing it partially, or not wearing it at all using webcam or image input. It leverages modern frontend and backend technologies for seamless camera streaming, fast inference, and intuitive user feedback — all built for deployment at scale.
 
-🚀 Features
+# 🚀 Features
 🎥 Live camera stream with real-time detection
-
 🧠 AI-powered classification:
-
 ✅ Full Mask (green)
-
 ⚠️ Partial Mask (orange)
-
 ❌ No Mask (red alarm)
 
 🌐 Web-based (no installation needed)
-
 ⚡ Fast performance using YOLO-based model and optimized backend
-
 📦 Deployed on free-tier cloud platforms (Render, Vercel/Netlify)
 
 🧰 Tech Stack
