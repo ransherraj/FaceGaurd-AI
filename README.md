@@ -24,7 +24,7 @@
 | Frontend | React + Tailwind CSS + Vite       |
 | Backend  | FastAPI (Python) + OpenCV         |
 | ML Model | YOLOv8 / MobileNet (ONNX format)  |
-| Deploy   | Vercel (frontend) + Render (backend) |
+| Deploy   | Netlify (frontend) + Render (backend) |
 
 ---
 
